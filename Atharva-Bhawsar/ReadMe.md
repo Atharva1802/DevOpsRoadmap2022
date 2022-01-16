@@ -18,3 +18,13 @@
 
 #### 06 Jan 2022
 - Attended an awesome Twitter Space about DevOps and Open Source.
+
+#### 07 Jan 2022
+- Completed the Devops Prerequesites course from freecodecamps' youtube.
+
+#### 08 - 15 Jan 2022
+- Paused due to End Sem exams
+
+#### 16 Jan 2022
+- Practised YAML
+- Completed Chapter 6th (Edx) 
